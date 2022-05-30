@@ -1,9 +1,9 @@
 <?php
 $metodo = $_SERVER['REQUEST_METHOD'];
 $index="http://localhost:8081/frontend2/index.php";
-$servername = "172.17.0.1:3307";
+$servername = "172.17.0.1:3306";
 $user = "root";
-$pass = "ricca";
+$pass = "1234";
 $db="mydb";
   
 // Create connection
